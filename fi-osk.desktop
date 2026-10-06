@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=On-Screen Keyboard (Finnish)
+Name[fi]=Näyttönäppäimistö
+Comment=Click to show or hide the on-screen keyboard
+Exec=fi-osk
+Icon=input-keyboard-virtual
+Terminal=false
+Categories=Utility;Accessibility;
+Keywords=keyboard;osk;virtual;näppäimistö;
+StartupNotify=false
+Actions=Quit;
+
+[Desktop Action Quit]
+Name=Quit keyboard
+Exec=fi-osk --quit
