@@ -3,6 +3,8 @@
 A full Windows-style keyboard (function keys, arrows, Home/End, Ctrl/Alt/AltGr/Meta, Finnish
 å ä ö and dead keys) that floats above all windows without stealing focus.
 
+![The on-screen keyboard with the Finnish layout](docs/screenshot.png)
+
 ## Requirements
 
 - KDE Plasma 6 on Wayland (tested on Fedora 44, Plasma 6.7)
